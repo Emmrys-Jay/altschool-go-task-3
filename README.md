@@ -1,1 +1,1 @@
-# altschool-go-task-3
+# ATM CLI APP
