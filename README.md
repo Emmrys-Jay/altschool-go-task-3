@@ -1,0 +1,1 @@
+# altschool-go-task-3
