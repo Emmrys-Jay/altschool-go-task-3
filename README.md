@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/63949797/197399773-8f250898-5950-4b89-
 - Clone this repository with 
 
 ```shell
-git clone github.com/Emmrys-Jay/altschool-go-task-3
+git clone https://github.com/Emmrys-Jay/altschool-go-task-3.git
 ```
 
 - Change into its directory with 
