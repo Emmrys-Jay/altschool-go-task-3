@@ -12,7 +12,7 @@ A micro ATM (Automated Teller Machine) simulator CLI app
 
 ## Demo
 
-
+https://user-images.githubusercontent.com/63949797/197399773-8f250898-5950-4b89-ad40-023a1ed198cc.mp4
 
 ## Setup
 
